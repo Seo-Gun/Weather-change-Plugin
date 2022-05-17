@@ -6,5 +6,5 @@
 
 # Youtube
 
--[유튜브](링크)
+-[유튜브](https://youtu.be/qQt-lb_5kRQ)
 
